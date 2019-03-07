@@ -1,0 +1,9 @@
+git status
+git clone <UR>
+git add
+git commit -a -m "comentario"
+git push
+git blame
+git config --global user.email "email"
+git config --global user.name "name"
+
