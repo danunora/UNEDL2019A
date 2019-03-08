@@ -1,9 +1,9 @@
 git status
-git clone <UR>
-git add
+git clone <URL>
+git add <file>/<dir>
 git commit -a -m "comentario"
 git push
-git blame
+git blame <file>
 git config --global user.email "email"
 git config --global user.name "name"
 
