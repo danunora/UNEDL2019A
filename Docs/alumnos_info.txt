@@ -1,6 +1,7 @@
-Leonardo Rodriguez,rsnav.81@gmail.com
+Brian Preciado, duebrian93@gmail.com ,https://github.com/BrianPre
+Leonardo Rodriguez,rsnav.81@gmail.com,https://github.com/SamRod12
 Jaime Sanchez,jaimesanchezlaguna.1997@gmail.com
-Mauricio Garcia,mainsaw_12@live.com.mx
+Mauricio Garcia,mainsaw_12@live.com.mx,https://github.com/MauricioGarcia12
 Atzel Ortiz,belatemouse@gmail.com
 Antonio Villegas,tonyvllegas@gmail.com
 Ulises Rocha,ulises2811.ulises@gmail.com
