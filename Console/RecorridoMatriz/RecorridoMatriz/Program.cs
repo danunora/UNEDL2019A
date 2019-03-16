@@ -22,14 +22,24 @@ namespace RecorridoMatriz
                                             {2,6,8,0,3},
                                             {2,4,5,2,0}};
 
-            Console.WriteLine("Array: " + myarray.GetLength(1));
-            
-
-            for (int i = 0; i <= myarray.GetLength(0); i++)
-            {
-                for (int j = 0; j <= myarray.Length; j++)
+            Console.WriteLine("Array 0: " + myarray.GetLength(0));
+            Console.WriteLine("Array 1: " + myarray.GetLength(1));
+            int temp = myarray.GetLength(0);
+            temp = temp - 1;
+            // Array 1: 5
+            for (int j = 0; j < myarray.GetLength(1); j++)
+            {   // Array 0: 4
+                for (int i = 0; i < myarray.GetLength(0); i++)
                 {
-
+                    if (j % 2 == 0)
+                    {
+                        Console.WriteLine("Valor Par: " + myarray[i, j]);
+                    }
+                    else
+                    {
+                        Console.WriteLine("Valor InP: " + myarray[temp - i, j]);
+                    }
+                    
                 }
                 
             }
