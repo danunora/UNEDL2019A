@@ -34,3 +34,18 @@ https://www.youtube.com/watch?v=HEISXs0wYlM
 https://www.youtube.com/watch?v=dyw0SohyEkw
 https://www.youtube.com/watch?v=v4cd1O4zkGw
 https://www.youtube.com/watch?v=MyeV2_tGqvw
+
+##################################### 03/22/2019 Tarea3
+Realizar un programa que muestre los diferentes tipos de datos utilizados en C#, 
+utilizar variables y constantes como parte del programa y realizar conversiones entre los mismos. 
+Subir el programa a github o bitbucket y enviar por email (daniel_nuno@hotmail.com) la liga al mismo.
+
+##################################### 03/22/2019 Tarea4
+Realizar un programa que muestre todos los siguientes tipos de operadores utilizados en C#.
+Aritméticos
+Comparación
+Asignación
+Lógicos 
+Subir el programa a github o bitbucket y enviar por email (daniel_nuno@hotmail.com) la liga al mismo.
+
+

@@ -1,3 +1,14 @@
 ###############################
 Tareas Programacion Visual III
 ###############################
+
+##################################### 03/22/2019 Tarea4
+TAREA # 1 INVESTIGAR:
+En que consiste cada uno de los siguientes paradigmas de programación y ejemplos de lenguajes de programación: 
+Programación Estructurada
+Programación Visual 
+Programación Orientada a Objetos 
+Programación Orientada a Eventos
+¿A qué se refiere el concepto de RAD (rapid application development)?
+¿Qué es un IDE? y mencionar ejemplos
+Conclusiones

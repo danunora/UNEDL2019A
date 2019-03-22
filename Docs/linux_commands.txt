@@ -7,3 +7,4 @@ pwd
 vim
 cat
 history
+find . -name *.java -print
