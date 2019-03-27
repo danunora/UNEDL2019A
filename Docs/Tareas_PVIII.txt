@@ -12,3 +12,21 @@ Programación Orientada a Eventos
 ¿A qué se refiere el concepto de RAD (rapid application development)?
 ¿Qué es un IDE? y mencionar ejemplos
 Conclusiones
+
+##################################### 03/27/2019 Tarea5
+EJERCICIO EN CLASE:
+- Organizarse en equipos de 3 elementos
+- Crear una cuenta en https://bitbucket.org/
+- Leer https://www.atlassian.com/git/tutorials/learn-about-code-review-in-bitbucket-cloud
+
+##################################### 03/27/2019 
+Tarea:
+- Elegir un problema para realizar un software utilizando:
+- Tipos de datos primitivos
+- Constantes
+- Operadores
+- Instrucciones de control de flujo:
+- Condicionales
+- Iteracion.
+- Hacer "code review".
+https://www.atlassian.com/git/tutorials/what-is-version-control 

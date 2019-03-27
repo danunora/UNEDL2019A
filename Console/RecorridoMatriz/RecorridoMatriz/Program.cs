@@ -29,7 +29,7 @@ namespace RecorridoMatriz
             // Array 1: 5
             for (int j = 0; j < myarray.GetLength(1); j++)
             {   // Array 0: 4
-                for (int i = 0; i < myarray.GetLength(0); i++)
+                for (int i = 0; i < 10; i++)
                 {
                     if (j % 2 == 0)
                     {
