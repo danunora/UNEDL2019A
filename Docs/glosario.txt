@@ -1,0 +1,87 @@
+Glosario
+
+######################### 1er Parcial
+CLI, GUI, NUI, OUI, HCI
+HTML, CSS, LAMP
+OOP
+Paradigma
+P.P.Estructurada,
+P.P.OO,
+P.P.O.Eventos,
+P.P.Funcional,
+P.P.Lógica,
+Multiparadigma,
+Programación Visual,
+Lenguaje,
+LPV,
+UML,
+Metodología RAD,
+IDE,
+Componentes,
+Componente Visual,
+Componente No Visual,
+Plataforma.NET,
+Framework,
+Librerías
+CLR,
+MISIL,
+CLS,
+CTS,
+Compilador JIT, 
+código fuente, 
+código objeto, 
+código ejecutable,
+XML,
+W3C,
+HTTP,
+SOAP,
+WSDL,
+UDDI
+######################### 2do Parcial
+Concurrencia
+Procesamiento en Paralelo
+future
+Race Condition
+Deadlock
+Exclusion Mutua
+Seccion Critica
+Atomicidad
+Sincronizacion
+Sleep, Wait, Task.Wait
+Lock, Mutex y SpinLock 
+Semaphore, SemaphoreSlim y los read/write locks.
+Polling
+Blocking
+Spinning
+Latency
+Overhead
+Context Switch
+Locking
+Mutex
+******************************** 3er Parcial *************************
+.NET Garbage Collector Generations
+SOA
+REST
+WSDL
+XML
+JSON
+WS-Policy
+SSL
+WS-SecureConversation
+named pipes
+MSMQ
+MTOM
+Mensaje
+Servicio
+Punto de servicio (endpoint)
+Punto de servicio de aplicación
+Punto de servicio de infraestructura
+Dirección
+Binding
+Binding Element
+Behaviours
+system-provided bindings
+Configuration vs coding
+Service operation
+Service contract
+Operation contract
