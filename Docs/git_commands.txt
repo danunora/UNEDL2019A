@@ -6,4 +6,10 @@ git push
 git blame <file>
 git config --global user.email "email"
 git config --global user.name "name"
+git fetch
+git checkout <branch>
+git push origin <branch>
+git pull
+git pull origin <branch>
+
 
