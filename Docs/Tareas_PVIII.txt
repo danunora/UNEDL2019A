@@ -30,3 +30,42 @@ Tarea:
 - Iteracion.
 - Hacer "code review".
 https://www.atlassian.com/git/tutorials/what-is-version-control 
+
+###################################### 03/28/2019 Glosario
+Realizar el glosario para el 1er parcial utilizando el formato de tareas:
+
+https://github.com/danunora/UNEDL2019A/blob/master/Docs/UNEDL_formato_tareas_pvIII.doc
+
+###################################### 04/03/2019 Practica con pull request
+
+### Desde git bash:
+### HOME es una variable de ambiente que contiene su home directory.
+
+$ echo $HOME
+$ cd $HOME
+$ mkdir Temp
+$ cd Temp
+
+### Clonar el repositorio prueba en el directorio Temp
+$ git clone https://danunora@bitbucket.org/unedl2019at1/pruebat1/prueba.git
+
+### Ir a www.bitbucket.com para crear un branch segun la liga que previamente les pase.
+### Una vez creado el branch "<nombre por alumno>", cambiarse a ese branch:
+
+### usando el branch "carlos" como ejemplo:
+$ git fetch && git checkout carlos
+
+### realizar la edicion de archivos o los cambios, etc
+$ vim axel.txt
+
+### agregar cambios y realizar el commit en el repositorio local:
+$ git add axel.txt
+$ git commit -a -m "axel work"
+
+### Empujar los cambios hacia bitbucket en el branch "carlos"
+$ git push origin carlos
+
+### Desde bitbucket hacer un pull request
+### hacer pull request, se refiere a que estas solicitando al dueno del
+### branch master, que tome los cambios desde el branch "carlos" y 
+### te permita mezclarlos (hacer merge)
