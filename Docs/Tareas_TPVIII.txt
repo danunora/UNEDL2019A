@@ -45,7 +45,8 @@ Realizar un programa que muestre todos los siguientes tipos de operadores utiliz
 Aritméticos
 Comparación
 Asignación
-Lógicos 
+Lógicos
+Crear clases y metodos individuales para cada tipo de operadores y operaciones. 
 Subir el programa a github o bitbucket y enviar por email (daniel_nuno@hotmail.com) la liga al mismo.
 
 

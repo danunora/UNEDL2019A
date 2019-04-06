@@ -69,4 +69,13 @@ $ git push origin carlos
 ### hacer pull request, se refiere a que estas solicitando al dueno del
 ### branch master, que tome los cambios desde el branch "carlos" y 
 ### te permita mezclarlos (hacer merge)
+
+###################################### 04/04/2019 Java Virtual Machine
+TAREA # Realizar un ensayo de la Java Virtual Machine
+Realizar un ensayo de la Java Virtual Machine
+https://www.youtube.com/watch?v=G1ubVOl9IBw
+https://www.tutorialspoint.com/java_virtual_machine/index.htm
+https://www.geeksforgeeks.org/jvm-works-jvm-architecture/  
+Subir el documento a github o bitbucket y enviar por email (daniel_nuno@hotmail.com) la liga al mismo.
+
    
