@@ -1,7 +1,7 @@
 #####################################
 Tareas Taller Programacion Visual III
 
-##################################### 03/08/2019 Tarea1
+##################################### 03/08/2019 TPVT1 Tarea1
 Dada la siguiente matriz, realizar sumas en forma de "I"
 son un total de 16 sumas en forma de "I".
 
@@ -23,7 +23,7 @@ son un total de 16 sumas en forma de "I".
  -27, -11, -2, 10, 
    9,  17, 25, 18
    
-##################################### 03/15/2019 Tarea2
+##################################### 03/15/2019 TVPT2 Tarea2
 Ver los siguientes videos y realizar un reporte utilizando el formato:
 https://github.com/danunora/UNEDL2019A/blob/master/Docs/UNEDL_formato_tareas_pvIII.doc
 
@@ -35,12 +35,12 @@ https://www.youtube.com/watch?v=dyw0SohyEkw
 https://www.youtube.com/watch?v=v4cd1O4zkGw
 https://www.youtube.com/watch?v=MyeV2_tGqvw
 
-##################################### 03/22/2019 Tarea3
+##################################### 03/22/2019 TVPT3 Tarea3
 Realizar un programa que muestre los diferentes tipos de datos utilizados en C#, 
 utilizar variables y constantes como parte del programa y realizar conversiones entre los mismos. 
 Subir el programa a github o bitbucket y enviar por email (daniel_nuno@hotmail.com) la liga al mismo.
 
-##################################### 03/22/2019 Tarea4
+##################################### 03/22/2019 TVPT4 Tarea4
 Realizar un programa que muestre todos los siguientes tipos de operadores utilizados en C#.
 Aritméticos
 Comparación

@@ -2,8 +2,8 @@
 Tareas Programacion Visual III
 ###############################
 
-##################################### 03/22/2019 Tarea4
-TAREA # 1 INVESTIGAR:
+##################################### 03/22/2019 
+PVT1 TAREA # 1 INVESTIGAR: Paradigmas de programacion
 En que consiste cada uno de los siguientes paradigmas de programación y ejemplos de lenguajes de programación: 
 Programación Estructurada
 Programación Visual 
@@ -13,14 +13,14 @@ Programación Orientada a Eventos
 ¿Qué es un IDE? y mencionar ejemplos
 Conclusiones
 
-##################################### 03/27/2019 Tarea5
+##################################### 03/27/2019
 EJERCICIO EN CLASE:
 - Organizarse en equipos de 3 elementos
 - Crear una cuenta en https://bitbucket.org/
 - Leer https://www.atlassian.com/git/tutorials/learn-about-code-review-in-bitbucket-cloud
 
 ##################################### 03/27/2019 
-Tarea:
+PVT2 TAREA # 2: Realizar software
 - Elegir un problema para realizar un software utilizando:
 - Tipos de datos primitivos
 - Constantes
@@ -32,6 +32,7 @@ Tarea:
 https://www.atlassian.com/git/tutorials/what-is-version-control 
 
 ###################################### 03/28/2019 Glosario
+PVT3 TAREA3: 
 Realizar el glosario para el 1er parcial utilizando el formato de tareas:
 
 https://github.com/danunora/UNEDL2019A/blob/master/Docs/UNEDL_formato_tareas_pvIII.doc
@@ -71,11 +72,20 @@ $ git push origin carlos
 ### te permita mezclarlos (hacer merge)
 
 ###################################### 04/04/2019 Java Virtual Machine
-TAREA # Realizar un ensayo de la Java Virtual Machine
+PVT4 TAREA # Realizar un ensayo de la Java Virtual Machine
 Realizar un ensayo de la Java Virtual Machine
 https://www.youtube.com/watch?v=G1ubVOl9IBw
 https://www.tutorialspoint.com/java_virtual_machine/index.htm
 https://www.geeksforgeeks.org/jvm-works-jvm-architecture/  
 Subir el documento a github o bitbucket y enviar por email (daniel_nuno@hotmail.com) la liga al mismo.
+
+###################################### 05/05/2019 Delegados y Eventos
+PVT5 TAREA #  Delegados en C#:
+Revisar los siguientes videos: 
+https://www.youtube.com/watch?v=GQbJH6HRenE
+https://www.youtube.com/watch?v=g0urRI85JQ0
+https://www.youtube.com/watch?v=jQgwEsJISy0&t=501s  
+Realizar un ejemplo con lo aprendido
+Subir el programa a github o bitbucket y enviar por email (daniel_nuno@hotmail.com) la liga al mismo.
 
    

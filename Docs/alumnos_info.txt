@@ -1,5 +1,5 @@
-Brian Preciado, duebrian93@gmail.com ,https://github.com/BrianPre, UNEDL2019AT2
-Leonardo Rodriguez,rsnav.81@gmail.com,https://github.com/SamRod12, UNEDL2019AT1
+Brian Preciado, duebrian93@gmail.com ,https://github.com/BrianPre , UNEDL2019AT2
+Leonardo Rodriguez,rsnav.81@gmail.com,https://github.com/SamRod12 , UNEDL2019AT1
 Jaime Sanchez,jaimesanchezlaguna.1997@gmail.com, https://github.com/jaimeSanchezL1997, UNEDL2019AT3
 Mauricio Garcia,mainsaw_12@live.com.mx,https://github.com/MauricioGarcia12, UNEDL2019AT2
 Axel Ortiz,belatemouse@gmail.com, https://github.com/AxelOrdonez, UNEDL2019AT1
