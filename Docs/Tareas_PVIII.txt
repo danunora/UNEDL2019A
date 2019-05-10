@@ -88,4 +88,14 @@ https://www.youtube.com/watch?v=jQgwEsJISy0&t=501s
 Realizar un ejemplo con lo aprendido
 Subir el programa a github o bitbucket y enviar por email (daniel_nuno@hotmail.com) la liga al mismo.
 
+####################################### 05/09/2019 Calculadora de Ofertas
+En base al archivo:
+https://github.com/danunora/UNEDL2019A/blob/master/Docs/Calculadora_Ofertas.xlsx
+Elaborar una calculadora de ofertas.
+1) Recibir del usuario el nombre, email.
+2) Permitir capturar al salario anual o mensual, para elaborar la oferta. 
+3) Las prestaciones de ley deberan estar en un recuadro y las opcionales en otro.
+4) Las prestaciones opcionales se podran habilitar o deshabilitar, se deberan ajustar los montos automaticamente.
+5) La oferta ya terminada, se debera poder enviar a un archivo de texto, imprimir a un PDF o por correo. 
+
    
