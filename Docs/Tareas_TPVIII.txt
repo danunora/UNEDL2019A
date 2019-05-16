@@ -49,4 +49,7 @@ Lógicos
 Crear clases y metodos individuales para cada tipo de operadores y operaciones. 
 Subir el programa a github o bitbucket y enviar por email (daniel_nuno@hotmail.com) la liga al mismo.
 
-
+##################################### 05/16/2019 TVPT5 Tarea5
+TAREA #  Algoritmos de ordenamiento C#:
+Hacer una forma que pida un conjunto de números enteros, agregar botones que permitan implementar los siguientes algoritmos de ordenamiento: quick sort, bubble sort, merge sort y heap sort, agregar un campo que despliegue el resultado. 
+Subir el programa a github o bitbucket y enviar por email (daniel_nuno@hotmail.com) la liga al mismo.
