@@ -89,7 +89,7 @@ Realizar un ejemplo con lo aprendido
 Subir el programa a github o bitbucket y enviar por email (daniel_nuno@hotmail.com) la liga al mismo.
 
 ####################################### 05/09/2019 Calculadora de Ofertas
-En base al archivo:
+PVT6 TAREA # En base al archivo:
 https://github.com/danunora/UNEDL2019A/blob/master/Docs/Calculadora_Ofertas.xlsx
 Elaborar una calculadora de ofertas.
 1) Recibir del usuario el nombre, email.
@@ -98,4 +98,9 @@ Elaborar una calculadora de ofertas.
 4) Las prestaciones opcionales se podran habilitar o deshabilitar, se deberan ajustar los montos automaticamente.
 5) La oferta ya terminada, se debera poder enviar a un archivo de texto, imprimir a un PDF o por correo. 
 
-   
+######################################## 05/24/2019 Exposicion Dekker/Peterson
+PVT7 TAREA # Algoritmo de Peterson/Dekker:
+Realizar una exposición acerca de:
+Algoritmo de Peterson (Mauricio, Axel, Carlos, Tony, Leonardo)
+Algoritmo de Dekker (Miguel, Jaime, Christian, Ulises,Brian)
+Subir el programa a github o bitbucket y enviar por email (daniel_nuno@hotmail.com) la liga al mismo.   
