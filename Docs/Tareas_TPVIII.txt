@@ -23,7 +23,7 @@ son un total de 16 sumas en forma de "I".
  -27, -11, -2, 10, 
    9,  17, 25, 18
    
-##################################### 03/15/2019 TVPT2 Tarea2
+##################################### 03/15/2019 TPVT2 Tarea2
 Ver los siguientes videos y realizar un reporte utilizando el formato:
 https://github.com/danunora/UNEDL2019A/blob/master/Docs/UNEDL_formato_tareas_pvIII.doc
 
@@ -35,12 +35,12 @@ https://www.youtube.com/watch?v=dyw0SohyEkw
 https://www.youtube.com/watch?v=v4cd1O4zkGw
 https://www.youtube.com/watch?v=MyeV2_tGqvw
 
-##################################### 03/22/2019 TVPT3 Tarea3
+##################################### 03/22/2019 TPVT3 Tarea3
 Realizar un programa que muestre los diferentes tipos de datos utilizados en C#, 
 utilizar variables y constantes como parte del programa y realizar conversiones entre los mismos. 
 Subir el programa a github o bitbucket y enviar por email (daniel_nuno@hotmail.com) la liga al mismo.
 
-##################################### 03/22/2019 TVPT4 Tarea4
+##################################### 03/22/2019 TPVT4 Tarea4
 Realizar un programa que muestre todos los siguientes tipos de operadores utilizados en C#.
 Aritméticos
 Comparación
@@ -49,7 +49,21 @@ Lógicos
 Crear clases y metodos individuales para cada tipo de operadores y operaciones. 
 Subir el programa a github o bitbucket y enviar por email (daniel_nuno@hotmail.com) la liga al mismo.
 
-##################################### 05/16/2019 TVPT5 Tarea5
+##################################### 05/16/2019 TPVT5 Tarea5
 TAREA #  Algoritmos de ordenamiento C#:
 Hacer una forma que pida un conjunto de números enteros, agregar botones que permitan implementar los siguientes algoritmos de ordenamiento: quick sort, bubble sort, merge sort y heap sort, agregar un campo que despliegue el resultado. 
+Subir el programa a github o bitbucket y enviar por email (daniel_nuno@hotmail.com) la liga al mismo.
+
+##################################### 05/24/2019 TPVT6
+Ejercicio # 7 en clase: 
+Reloj Checador 
+En base a las páginas: 
+https://www.tutorialspoint.com/csharp/csharp_file_io.htm
+https://github.com/danunora/unedl/tree/master/Command/DateTime_TimeSpan
+Realizar el ejercicio de implementar un Reloj Checador.
+Registrar entradas y salidas de varias personas en un archivo de texto
+Formato del registro: <persona><entrada/salida><fecha><hora>
+Windows Form
+Forma de Registro
+Forma de Búsqueda por persona de entradas y salidas, debe listar el contenido del archivo de txt.
 Subir el programa a github o bitbucket y enviar por email (daniel_nuno@hotmail.com) la liga al mismo.
