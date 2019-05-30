@@ -37,7 +37,7 @@ namespace Tareas
             int i = 1;
             while( i < 100)
             {
-                Console.WriteLine(c);
+                Console.WriteLine(i + " " + c);
                 i++;
             }
         }

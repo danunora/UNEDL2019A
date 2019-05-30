@@ -103,4 +103,13 @@ PVT7 TAREA # Algoritmo de Peterson/Dekker:
 Realizar una exposición acerca de:
 Algoritmo de Peterson (Mauricio, Axel, Carlos, Tony, Leonardo)
 Algoritmo de Dekker (Miguel, Jaime, Christian, Ulises,Brian)
-Subir el programa a github o bitbucket y enviar por email (daniel_nuno@hotmail.com) la liga al mismo.   
+Subir el programa a github o bitbucket y enviar por email (daniel_nuno@hotmail.com) la liga al mismo.  
+
+######################################## 05/29/2019 
+Ejercicio en clase:  Reloj Checador Multithread
+En base al ejercicio del Reloj Checador (FileStream), realizar una simulación de que 
+varias personas checan su entrada/salida.
+Cada persona será un thread, 
+La persona puede checar entrada o salida
+http://www.johandorper.com/log/thread-safe-file-writing-csharp
+Subir el programa a github o bitbucket y enviar por email (daniel_nuno@hotmail.com) la liga al mismo.
