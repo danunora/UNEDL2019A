@@ -1,4 +1,4 @@
-Glosario
+﻿Glosario
 
 ######################### 1er Parcial
 CLI, GUI, NUI, OUI, HCI
@@ -58,7 +58,7 @@ Overhead
 Context Switch
 Locking
 Mutex
-******************************** 3er Parcial *************************
+############################# 3er Parcial 
 .NET Garbage Collector Generations
 SOA
 REST

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SemaphoresTheClub", "SemaphoresTheClub\SemaphoresTheClub.csproj", "{312BD17B-99BA-4BBF-AFA3-8924B09A8260}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{312BD17B-99BA-4BBF-AFA3-8924B09A8260}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{312BD17B-99BA-4BBF-AFA3-8924B09A8260}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{312BD17B-99BA-4BBF-AFA3-8924B09A8260}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{312BD17B-99BA-4BBF-AFA3-8924B09A8260}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {086577B5-1BA7-4588-802F-1373B11809CD}
+	EndGlobalSection
+EndGlobal

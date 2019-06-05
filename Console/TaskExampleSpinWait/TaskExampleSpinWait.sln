@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskExampleSpinWait", "TaskExampleSpinWait\TaskExampleSpinWait.csproj", "{79AA48A1-D23B-46A0-8CE2-6EBA8B960D0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79AA48A1-D23B-46A0-8CE2-6EBA8B960D0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79AA48A1-D23B-46A0-8CE2-6EBA8B960D0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79AA48A1-D23B-46A0-8CE2-6EBA8B960D0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79AA48A1-D23B-46A0-8CE2-6EBA8B960D0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CF692E1-3243-44D0-B5E4-23381A1F8E54}
+	EndGlobalSection
+EndGlobal
