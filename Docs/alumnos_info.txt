@@ -24,3 +24,18 @@ Jaime, Miguel, Christian
 
 Team 3,
 Leonardo, Carlos y Brian
+
+###################3
+
+1 06/19/2019
+2
+3
+6 
+4
+
+1
+2
+3
+4
+5
+6
