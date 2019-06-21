@@ -117,3 +117,19 @@ Subir el programa a github o bitbucket y enviar por email (daniel_nuno@hotmail.c
 ######################################## 06/05/2019
 PVT9 Realizar un ensayo en base a 
 https://docs.oracle.com/javase/tutorial/essential/concurrency/
+
+###################### TERCER PARCIAL #############
+######################################## 06/21/2019
+PVT10 Left Rotation of an Array,
+Crear un arreglo de enteros 
+1) Solicitar al usuario el tamaño : n
+2) Solicitar al usuario el numero de rotaciones : r
+3) Solicitar al usuario los enteros del arreglo
+Hacer la rotacion del arreglo a la izquierda el numero
+de rotaciones dado y regresar el arreglo, ejemplo:
+
+Tamaño del Arreglo: 5
+Rotaciones: 2
+Elementos: 1,2,3,4,5
+Arreglo rotado: 3,4,5,1,2
+
