@@ -14,6 +14,32 @@ using System;
 
 class Solution
 {
+    public static int[] rotLeft(int[] arreglo, int shifts)
+    {
+        int arrsize = arreglo.Length;
+        int[] shiftleft = new int[arrsize];
+        int j = 0;
+        if (shifts != 0)
+        {
+            for (var i = shifts; i < arrsize; i++)
+            {
+                shiftleft[j] = arreglo[i];
+                j++;
+            }
+            int k = arrsize - j;
+            for (var i = 0; i < k; i++)
+            {
+                shiftleft[j] = arreglo[i];
+                j++;
+            }
+            return shiftleft;
+        }
+        else
+        {
+            return arreglo;
+        }
+    }
+
     public static int[] shiftleft(int arrsize, int shifts, int[] arreglo)
     {
         int[] shiftleft = new int[arrsize];
@@ -58,10 +84,10 @@ class Solution
         int[] a = Array.ConvertAll(Console.ReadLine().Split(' '), 
             aTemp => Convert.ToInt32(aTemp));
 
-        int[] res = shiftleft(n, d, a);
+        int[] res = rotLeft(a, d);
+
+        //        int[] res = shiftleft(n, d, a);
 
         Console.WriteLine(string.Join(" ", res));
-
-
     }
 }

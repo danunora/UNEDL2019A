@@ -131,5 +131,41 @@ de rotaciones dado y regresar el arreglo, ejemplo:
 Tamaño del Arreglo: 5
 Rotaciones: 2
 Elementos: 1,2,3,4,5
-Arreglo rotado: 3,4,5,1,2
+Arreglo Rotado: 3,4,5,1,2
+######################################## 06/21/2019
+PVT11 Realizar el algoritmo de ordenamiento de un arreglo 
+sin utilizar biblitecas de ordenamiento.
+Arreglos: 
+[  entrada  ][  salida   ]
+[1,0,0,1,0,1][0,0,0,1,1,1]
+[0,0,0,1,1,0][0,0,0,0,1,1]
+[0,0,0,0,0,1][0,0,0,0,0,1]
+######################################## 06/27/2019
+PVT12 Dado un arreglo de cadenas inicial, encontrar los miembros 
+de un segundo arreglo, en el primero y regresar las ocurrencias.
+Se debera solicitar al usuario: 
+1) la cantidad de elementos de ambos arreglos
+2) los miembros de ambos arreglos (cadenas)
+Ejemplo:
+- Arreglo para buscar:
+A=[aba, baba, aba, xzxb]
+- Arreglo a buscar:
+B=[aba, xzxb, ab]
+- Resultado:
+[2,1,0]
 
+Explicacion: 
+aba aparece 2 veces en el arreglo A,  
+xzxb aparece 1 vez en el arreglo A,
+
+Ejemplo:
+- Arreglo para buscar:
+A=[def, de, fgh, xzxb]
+- Arreglo a buscar:
+B=[de, lmn, fgh]
+- Resultado:
+[1,0,1]
+
+Explicacion: 
+de aparece 1 vez en el arreglo A,  
+fgh aparece 1 vez en el arreglo A,

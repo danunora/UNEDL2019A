@@ -17,22 +17,7 @@ import java.util.Stack;
  * @author root
  */
 public class Arreglos {
-
     private static final Scanner scanner = new Scanner(System.in);
-
-    /**
-     * Simple Array Sum
-     *
-     * @param arreglo
-     * @return
-     */
-    public static int simpleArraySum(int[] arreglo) {
-        int suma = 0;
-        for (int i = 0; i < arreglo.length; i++) {
-            suma = suma + arreglo[i];
-        }
-        return suma;
-    }
 
     /**
      * Balance the parenthesis
@@ -105,19 +90,59 @@ public class Arreglos {
     }
 
     /**
+     * Sort an array of zeros and ones
+     * @param arreglo
+     * @return 
+     */
+    public static void zeroSort(){
+        int[] arreglo = new int[] {0,0,1,1,0,1};
+        int[] sorted = new int[arreglo.length];
+        for (int i = 0; i < arreglo.length; i++) {
+            if(arreglo[i] == 0){
+                sorted[i] = arreglo[i];
+            }else if (arreglo[i] == 1){
+                sorted[arreglo.length - i -1] = arreglo[i];
+            } else{
+                System.out.println("Invalid element");
+                break;
+            }
+        }
+        for (int i = 0; i < sorted.length; i++){
+            System.out.println("Sorted: " + sorted[i]);
+        }        
+    }
+
+    /**
+     * Simple Array Sum
+     *
+     * @param arreglo
+     * @return
+     */
+    public static int simpleArraySum(int[] arreglo) {
+        int suma = 0;
+        for (int i = 0; i < arreglo.length; i++) {
+            suma = suma + arreglo[i];
+        }
+        return suma;
+    }
+    
+    /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Array Size: ");
-        int arCount = Integer.parseInt(scanner.nextLine().trim());
-        int[] ar = new int[arCount];
-        System.out.println("Array Elements: ");
-        String[] arItems = scanner.nextLine().split(" ");
-        for (int arItr = 0; arItr < arCount; arItr++) {
-            int arItem = Integer.parseInt(arItems[arItr].trim());
-            ar[arItr] = arItem;
-        }
-        int result = simpleArraySum(ar);
-        System.out.println("Result: " + result);
+//        System.out.println("Array Size: ");
+//        int arCount = Integer.parseInt(scanner.nextLine().trim());
+//        int[] ar = new int[arCount];
+//        System.out.println("Array Elements: ");
+//        String[] arItems = scanner.nextLine().split(" ");
+//        for (int arItr = 0; arItr < arCount; arItr++) {
+//            int arItem = Integer.parseInt(arItems[arItr].trim());
+//            ar[arItr] = arItem;
+//        }
+//        
+//        int result = simpleArraySum(ar);
+//        System.out.println("Result: " + result);
+//        Balance();
+          zeroSort();        
     }
 }
