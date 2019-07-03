@@ -169,3 +169,41 @@ B=[de, lmn, fgh]
 Explicacion: 
 de aparece 1 vez en el arreglo A,  
 fgh aparece 1 vez en el arreglo A,
+
+######################################## 07/03/2019
+TAREA #  Java RMI, C# WCF: 3er Parcial
+Realizar una investigación acerca de:
+Java Remote Method Invocation (RMI)
+Java Persistence API (JPA), https://www.tutorialspoint.com/jpa/
+Java Management Extensions (JMX), https://docs.oracle.com/javase/tutorial/jmx/index.html 
+Spring MVC
+WCF (Windows Communication Foundation)
+ASP.NET
+.NET Persistence API (http://www.npersistence.org/)
+Subir el documento a github o bitbucket y enviar por email (daniel_nuno@hotmail.com) la liga al mismo.
+
+######################################## 07/03/2019
+Ejercicio: Obtener el mayor valor de un arreglo despues de realizar las operaciones
+de suma de un valor en un rango dado.
+Solicitar al usuario:
+1) Tamaño del arreglo: 
+2) Cantidad de operaciones a realizar de la siguiente forma:
+	a) posicion inicial
+	b) posicion final
+	c) cantidad a sumar
+
+Regresar:
+El mayor valor del arreglo resultante
+
+Ejemplo:
+Tamaño del arreglo: 5
+Cantidad de operaciones: 3
+1) 1 2 100
+2) 3 4 100
+3) 1 3 100
+Resultado: 200
+
+[0,0,0,0,0]
+[100,100,0,0,0] <- operacion 1)
+[100,100,100,100,0] <- operacion 2)
+[200,200,200,100,0] <- operacion 3)
