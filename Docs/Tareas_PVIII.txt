@@ -171,7 +171,7 @@ de aparece 1 vez en el arreglo A,
 fgh aparece 1 vez en el arreglo A,
 
 ######################################## 07/03/2019
-TAREA #  Java RMI, C# WCF: 3er Parcial
+PVT13 Java RMI, C# WCF: 3er Parcial
 Realizar una investigación acerca de:
 Java Remote Method Invocation (RMI)
 Java Persistence API (JPA), https://www.tutorialspoint.com/jpa/
@@ -183,7 +183,7 @@ ASP.NET
 Subir el documento a github o bitbucket y enviar por email (daniel_nuno@hotmail.com) la liga al mismo.
 
 ######################################## 07/03/2019
-Ejercicio: Obtener el mayor valor de un arreglo despues de realizar las operaciones
+PVT14 Obtener el mayor valor de un arreglo despues de realizar las operaciones
 de suma de un valor en un rango dado.
 Solicitar al usuario:
 1) Tamaño del arreglo: 
@@ -207,3 +207,18 @@ Resultado: 200
 [100,100,0,0,0] <- operacion 1)
 [100,100,100,100,0] <- operacion 2)
 [200,200,200,100,0] <- operacion 3)
+
+################################### 07/10/2019
+Solucion a la tarea PVT14: 
+1) https://en.wikipedia.org/wiki/Prefix_sum
+2) https://www.youtube.com/watch?v=hDhf04AJIRs
+
+################################### 07/10/2019
+PVT15 Realizar el conteo de los pares.
+Dado un arreglo de numeros dado, contar todos los pares y regresar el resultado
+
+Ejemplo:
+Pedir al usuario: 
+Tamaño del arreglo: 9
+Elementos: 10 20 20 10 10 30 50 10 20
+Resultado: 3
