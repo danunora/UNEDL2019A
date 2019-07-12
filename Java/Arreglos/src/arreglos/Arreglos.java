@@ -136,20 +136,6 @@ public class Arreglos {
             System.out.println("Sorted: " + sorted[i]);
         }        
     }
-
-    /**
-     * Simple Array Sum
-     *
-     * @param arreglo
-     * @return
-     */
-    public static int simpleArraySum(int[] arreglo) {
-        int suma = 0;
-        for (int i = 0; i < arreglo.length; i++) {
-            suma = suma + arreglo[i];
-        }
-        return suma;
-    }
     
     /**
      * Return the major element of an array
@@ -170,7 +156,7 @@ public class Arreglos {
      * 
      * @return 
      */
-    public static void arrayManipulation() {
+    public static void arrayManipulation1() {
         int n = 10;
 //        int[][] queries = {{1,5,3},{4,8,7},{6,9,1}};
 //        int[][] queries = {{1,2,100},{2,5,100},{3,4,100}};
@@ -208,11 +194,11 @@ public class Arreglos {
     /**
      * 
      */
-    public static void arrayExercise(){
+    public static void arrayManipulation2(){
         Scanner scan = new Scanner(System.in);
-        System.out.println("Array size: ");
+        System.out.println("Enter Array size: ");
         int arraysize = scan.nextInt();
-        System.out.println("Queries: ");
+        System.out.println("Enter Queries: ");
         int queries = scan.nextInt();
         
         long[] arreglo = new long[arraysize];
@@ -240,30 +226,84 @@ public class Arreglos {
         }
         System.out.println("Mayor: " + mayor);        
     }
+    
+    /**
+     * Simple Array Sum
+     *
+     * @param arreglo
+     * @return
+     */
+    public static int simpleArraySum(int[] arreglo) {
+        int suma = 0;
+        for (int i = 0; i < arreglo.length; i++) {
+            suma = suma + arreglo[i];
+        }
+        return suma;
+    }
+
+    /**
+     * Simple Array Sum
+     */
+    public static void SimpleArraySum(){
+        System.out.println("Enter Array Size: ");
+        int arCount = Integer.parseInt(scanner.nextLine().trim());
+        int[] ar = new int[arCount];
+        System.out.println("Enter Array Elements: ");
+        String[] arItems = scanner.nextLine().split(" ");
+        for (int arItr = 0; arItr < arCount; arItr++) {
+            int arItem = Integer.parseInt(arItems[arItr].trim());
+            ar[arItr] = arItem;
+        }   
+        
+        int result = simpleArraySum(ar);
+        System.out.println("Result: " + result);        
+    }
+    
+    public static int countingValleys(int n, String s){
+        
+    }
+    
+    public static void CountingValleys() {
+        System.out.println("Counting Valleys");
+        try {
+            final Scanner myscanner = new Scanner(System.in);
+            BufferedWriter bufferedWriter = new BufferedWriter(
+                    new FileWriter("C:\\Users\\root\\counting.txt"));
+
+            System.out.println("Enter array size: ");
+            int n = myscanner.nextInt();
+            myscanner.skip("(\r\n|[\n\r\u2028\u2029\u0085])?");
+
+            System.out.println("Enter array elements: ");
+            String s = myscanner.nextLine();
+
+            int result = countingValleys(n, s);
+
+            bufferedWriter.write(String.valueOf(result));
+            bufferedWriter.newLine();
+
+            bufferedWriter.close();
+
+            myscanner.close();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
+    
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-//        System.out.println("Array Size: ");
-//        int arCount = Integer.parseInt(scanner.nextLine().trim());
-//        int[] ar = new int[arCount];
-//        System.out.println("Array Elements: ");
-//        String[] arItems = scanner.nextLine().split(" ");
-//        for (int arItr = 0; arItr < arCount; arItr++) {
-//            int arItem = Integer.parseInt(arItems[arItr].trim());
-//            ar[arItr] = arItem;
-//        }
-//        
-//        int result = simpleArraySum(ar);
-//        System.out.println("Result: " + result);
-//        Balance();
-//          zeroSort();
+        CountingValleys();
+//      SimpleArraySum();
+//      Balance();
+//         zeroSort();
           //sparceArrays();
           //int[] test = new int[]{1,6,3,4,5};
           //System.out.println("mayor: " + mayor(test));
-          //arrayExercise();
+      //arrayManipulation1();
           //TestCase tc = new TestCase();
           //tc.test();
-          arrayManipulation();
+          arrayManipulation2();
     }
 }

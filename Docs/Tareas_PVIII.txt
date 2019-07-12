@@ -222,3 +222,12 @@ Pedir al usuario:
 Tamaño del arreglo: 9
 Elementos: 10 20 20 10 10 30 50 10 20
 Resultado: 3
+
+################################### 07/10/2019
+PVT16 Imprimir los elementos de una lista ligada
+
+https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem
+
+################################### 07/10/2019
+PVT17 Realizar practica de Java Sockets
+https://www.baeldung.com/a-guide-to-java-sockets

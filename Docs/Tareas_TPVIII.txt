@@ -67,3 +67,10 @@ Windows Form
 Forma de Registro
 Forma de Búsqueda por persona de entradas y salidas, debe listar el contenido del archivo de txt.
 Subir el programa a github o bitbucket y enviar por email (daniel_nuno@hotmail.com) la liga al mismo.
+
+###################### TERCER PARCIAL #############
+
+#################################### 07/12/2019
+TPVT7 Descargar e instalar Unity3D 2017.1f
+https://unity3d.com/get-unity/download/archive
+
