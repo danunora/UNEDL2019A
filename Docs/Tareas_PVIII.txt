@@ -225,7 +225,6 @@ Resultado: 3
 
 ################################### 07/10/2019
 PVT16 Imprimir los elementos de una lista ligada
-
 https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem
 
 ################################### 07/10/2019
