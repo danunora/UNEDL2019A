@@ -22,6 +22,10 @@ public class GreetServer {
     private Socket clientSocket;
     private PrintWriter out;
     private BufferedReader in;
+
+    public GreetServer() {
+        System.out.println("Starting GreetServer...");
+    }
  
     /**
      * 
@@ -34,6 +38,7 @@ public class GreetServer {
             out = new PrintWriter(clientSocket.getOutputStream(), true);
             in = new BufferedReader(
                     new InputStreamReader(clientSocket.getInputStream()));
+            System.out.println("GreetServer started");
             String greeting = in.readLine();
             if ("hello server".equals(greeting)) {
                 System.out.println("hello client");

@@ -73,4 +73,3 @@ Subir el programa a github o bitbucket y enviar por email (daniel_nuno@hotmail.c
 #################################### 07/12/2019
 TPVT7 Descargar e instalar Unity3D 2017.1f
 https://unity3d.com/get-unity/download/archive
-
