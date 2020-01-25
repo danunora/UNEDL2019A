@@ -1,7 +1,7 @@
 #!/bin/bash -x
-JRE=./jdk-9/bin/javac.exe
+JRE=/usr/bin/javac
 JLIBDIR=./jlib
-JUNIT_HOME=$JLIBDIR/junit-4.10.jar
+JUNIT_HOME=$JLIBDIR/junit-4.13.jar
 CLASSPATH=$JUNIT_HOME:.
 ${JRE} -cp $CLASSPATH GreetServer.java
 ${JRE} -cp $CLASSPATH GreetClient.java

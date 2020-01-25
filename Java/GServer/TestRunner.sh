@@ -1,7 +1,7 @@
 #!/bin/bash
-JRE=./jdk-9/bin/java.exe
+JRE=/usr/bin/java
 JLIBDIR=./jlib
-JUNIT_HOME=$JLIBDIR/junit-4.10.jar
+JUNIT_HOME=$JLIBDIR/junit-4.13.jar
 CLASSPATH=$JUNIT_HOME:.
 CLASS="TestRunner"
 $JRE -cp $CLASSPATH $CLASS $@
